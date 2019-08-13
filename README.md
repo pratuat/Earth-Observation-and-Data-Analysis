@@ -1,4 +1,4 @@
-# Earth-Observation-and-Data-Analysis
+# Earth Observation and Data Analysis
 
 This repository contains 3 report submisson on Earth Observation and Data Analysis conducted as a part of course fulfillment for EODA 2018/19 session at Sapienza University of Rome.  
 
